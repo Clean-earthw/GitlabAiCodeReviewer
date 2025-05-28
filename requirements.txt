@@ -1,0 +1,9 @@
+functions-framework==3.*
+requests
+google-cloud-secret-manager
+python-gitlab
+google-cloud-aiplatform
+vertexai
+google-cloud-logging
+setuptools
+python-dotenv
